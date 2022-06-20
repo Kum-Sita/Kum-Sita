@@ -1,9 +1,8 @@
 
-# Hi, I'm Kumari 👋
+Hi, I'm Kumari 👋
 
 
-## 🚀 About Me
-I'm a Software QA Engineer
+🚀 I'm a Software QA Engineer
 
 
 
