@@ -2,9 +2,8 @@
 # Hi, I'm Kumari 👋
 
 
+
 🚀 I'm a Software QA Engineer
-
-
 
 👩‍💻 I'm currently working as a Functional Tester
 
@@ -16,8 +15,14 @@
 
 😄 Pronouns - she/her
 
-⚡️ Fun Fact - My favorite childhood memory is camping in the woods with my teammates for 10 days to earn the Rashtrapati Scout/Guide Award, where we cooked 25 recipes without using any utensils or tools, with just 5 food items in one hour. It was great teamwork!
-## 🛠 Skills
+⚡️ Fun Fact -  
+My favorite childhood memory is camping in the woods with my teammates for 10 days to earn the Rashtrapati Scout/Guide Award, where we cooked 25 recipes without using any utensils or tools, with just 5 food items in one hour. It was great teamwork!
+
+
+
+
+## 🛠 Skills - 
+
 📦 Operating System: [Windows](https://www.microsoft.com/en-us/windows/get-windows-10)
 
 🌍 Web Browsers: [Google Chrome](https://www.google.com/chrome/bsem/download/en_us/?brand=VDKB&ds_kid=43700052784036214&utm_source=bing&utm_medium=cpc&utm_campaign=1011197%20%7C%20Chrome%20Win10%20%7C%20DR%20%7C%20ESS01%20%7C%20NA%20%7C%20US%20%7C%20en%20%7C%20Desk%20%7C%20SEM%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Top%20KWDS&utm_term=google%20chrome&utm_content=Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Google%20Chrome%20~%20Top%20KWDS&gclid=b201c78f63c112840815a53f7e8f8f2f&gclsrc=3p.ds), [Microsoft Edge](https://www.microsoft.com/en-us/edge?brand=M021&OCID=AID2200286_SEM_94ce3d8b27f3190516a35f3b3a7f7c74%3aG%3as&ef_id=94ce3d8b27f3190516a35f3b3a7f7c74%3aG%3as&msclkid=94ce3d8b27f3190516a35f3b3a7f7c74&r=1)
