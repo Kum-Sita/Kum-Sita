@@ -16,9 +16,9 @@
 😄 Pronouns - she/her
 
 ⚡️ Fun Fact -  
-My favorite childhood memory is camping in the woods with my teammates for 10 days to earn the Rashtrapati Scout/Guide Award,
-where we cooked 25 recipes without using any utensils or tools, with just 5 food items in one hour. It was great teamwork!
-
+From Chilhood memeory - camping in the woods with my teammates for 10 days to earn the Rashtrapati Scout/Guide Award,
+where we cooked 25 recipes without using any utensils or tools, with just 5 food items in one hour. 
+Leraned 2 things - Power of Teamwork and Nothing is impossible. 
 
 
 
