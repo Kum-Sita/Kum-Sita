@@ -35,7 +35,7 @@ Leraned 2 things - Power of Teamwork and Nothing is impossible.
 
 🐛 Bug Tracking System: [JIRA](https://www.atlassian.com/software/jira?gclid=8621591ffaee1cfd30103baff63d23ca&gclsrc=3p.ds&adgroup=1296324441311137&campaign=380755204&creative=81020329640247&device=c&keyword=%2Bjira+%2Bsoftware+%2Bcom&ds_k=%2Bjira+%2Bsoftware+%2Bcom&matchtype=e&network=o&ds_kids=p54408717774&ds_e=MICROSOFT&ds_eid=700000001738795&ds_e1=MICROSOFT&msclkid=8621591ffaee1cfd30103baff63d23ca&bundle=jira-software&edition=free), [ZenHub](https://go.zenhub.com/long-ppc/?utm_term=zenhub&utm_source=bing&utm_medium=cpc&utm_campaign=Brand-Bing&utm_content=Zenhub&msclkid=27ac283010ef1f408f814a801ffea20d), [GitHub](https://github.com/), [Bitbucket](https://bitbucket.org/)
 
-⚠️ Test Management Tools: [TestRail](https://www.gurock.com/testrail/) 
+⚠️ Test Management Tools: [TestRail](https://www.gurock.com/testrail/), [qTest](https://www.tricentis.com/products/unified-test-management-qtest/test-case-manager)
 
 📮 API testing tool: [Postman](https://www.postman.com/automated-testing/)
 ## 🔗 Connect with me on 
