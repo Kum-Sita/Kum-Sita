@@ -17,7 +17,7 @@
 
 ⚡️ Fun Fact -  
 My earliest memory is of spending 10 days camping in the woods with my friends to earn the Rashtrapati Scout/Guide Award. During that time, we prepared 25 different recipes in just one hour without the use of any tools or utensils.
-Learned the concepts of the "power of teamwork" and "nothing is impossible.". 
+Learned the concepts of the "power of teamwork", "never give up" and "nothing is impossible.". 
 
 
 
