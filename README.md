@@ -28,7 +28,7 @@ Leraned 2 things - Power of Teamwork and Nothing is impossible.
 
 🌍 Web Browsers: [Google Chrome](https://www.google.com/chrome/bsem/download/en_us/?brand=VDKB&ds_kid=43700052784036214&utm_source=bing&utm_medium=cpc&utm_campaign=1011197%20%7C%20Chrome%20Win10%20%7C%20DR%20%7C%20ESS01%20%7C%20NA%20%7C%20US%20%7C%20en%20%7C%20Desk%20%7C%20SEM%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Top%20KWDS&utm_term=google%20chrome&utm_content=Desk%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20Google%20Chrome%20~%20Top%20KWDS&gclid=b201c78f63c112840815a53f7e8f8f2f&gclsrc=3p.ds), [Microsoft Edge](https://www.microsoft.com/en-us/edge?brand=M021&OCID=AID2200286_SEM_94ce3d8b27f3190516a35f3b3a7f7c74%3aG%3as&ef_id=94ce3d8b27f3190516a35f3b3a7f7c74%3aG%3as&msclkid=94ce3d8b27f3190516a35f3b3a7f7c74&r=1)
 
-💻 Programming language: [Java](https://www.java.com/en/), [HTML 5](https://www.javatpoint.com/html5-tutorial), [JavaScript](https://www.javascript.com/)
+💻 Programming language: [Java](https://www.java.com/en/), [HTML 5](https://www.javatpoint.com/html5-tutorial), [JavaScript](https://www.javascript.com/), [Python](https://www.python.org/)
 
 ⚙️ Testing Tools: [ALM](https://www.testmanagement.com/qualitycenter/), [Selenium Webdriver](https://www.selenium.dev/documentation/webdriver/), [Eclipse](https://www.eclipse.org/),
                    [Jenkins](https://www.jenkins.io/), [TestNG](https://testng.org/doc/), [VS Code](https://code.visualstudio.com/), [Cucumber](https://cucumber.io/), [Cypress](https://www.cypress.io/), [Robot](https://robotframework.org/)
