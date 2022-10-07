@@ -16,9 +16,8 @@
 😄 Pronouns - she/her
 
 ⚡️ Fun Fact -  
-From Chilhood memeory - camping in the woods with my teammates for 10 days to earn the Rashtrapati Scout/Guide Award,
-where we cooked 25 recipes without using any utensils or tools, with just 5 food items in one hour. 
-Leraned 2 things - Power of Teamwork and Nothing is impossible. 
+My earliest memory is of spending 10 days camping in the woods with my friends to earn the Rashtrapati Scout/Guide Award. During that time, we prepared 25 different recipes in just one hour without the use of any tools or utensils.
+Learned the concepts of the "power of teamwork" and "nothing is impossible.". 
 
 
 
