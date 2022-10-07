@@ -7,7 +7,7 @@
 
 👩‍💻 I'm currently working as a Functional Tester
 
-🧠 I'm currently learning Cypress Automation Framework using JavaScript
+🧠 I'm currently learning Cypress and Robot Automation Framework using JavaScript and Python
 
 👯‍♀️ I'm looking to collaborate on Automation Testing
 
