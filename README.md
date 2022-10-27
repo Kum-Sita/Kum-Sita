@@ -9,7 +9,7 @@
 
 🧠 I'm currently learning Cypress and Robot Automation Framework using JavaScript and Python
 
-👯‍♀️ I'm looking to collaborate on Automation Testing
+👯‍♀️ I'm interested in collaborating on automation testing and honing my skills in defining design definitions, developing solution requirements, and understanding business objectives and stakeholders.
 
 📫 Reach me at kumari_sita@outlook.com
 
